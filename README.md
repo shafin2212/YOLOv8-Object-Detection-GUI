@@ -1,4 +1,4 @@
-OLOv8 Object Detection GUI
+YOLOv8 Object Detection GUI
 Overview
 This project is a real-time object detection application built using Python, OpenCV, and YOLOv8. The interface, created with PyQt5, enables users to detect objects from both live camera feeds and video files, with additional 3D data visualization for tracking detection confidence levels.
 
